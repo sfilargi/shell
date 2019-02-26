@@ -1,0 +1,295 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Oct 22 14:53:36 2018
+;; Desktop file format version 208
+;; Emacs version 25.3.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23502 18144 428833 716000) (desktop . "208") "stavros@sw-dev3.pensando.io" nil nil ((((tty-type . "screen-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "#F5F5F5") (cursor-color . "#F5F5F5") (tool-bar-lines . 0) (background-color . "#1B1E1C") (mouse-color . "#F5F5F5") (font . "tty") (height . 73) (width . 237) (modeline . t) (unsplittable) (menu-bar-lines . 1) (frameset--id . "3BE7-471C-7A20-0573") (frameset--mini t) (minibuffer . t)) ((min-height . 4) (min-width . 20) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 4) (min-pixel-width . 20) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 4) (min-pixel-height-safe . 1) (min-pixel-width-safe . 4)) hc (pixel-width . 237) (pixel-height . 72) (total-width . 237) (total-height . 72) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 119) (pixel-height . 72) (total-width . 119) (total-height . 72) (normal-height . 1.0) (normal-width . 0.5) (buffer "statemgr_test.go" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 1603) (start . 1))) (leaf (last . t) (pixel-width . 118) (pixel-height . 72) (total-width . 118) (total-height . 72) (normal-height . 1.0) (normal-width . 0.5) (buffer ".emacs" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 1267) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("proje" "autocomplete-go" "ac-go" "cluster." "Port" "Ports" "macAdd" "newpolicyagent" "macAddr" "sgpupdatedb" "fakerp" "Update" "StatusUpdate" "Propa" "sgpolicystatus" "status"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs" "/local/stavros/src/github.com/pensando/sw/nic/delphi/gosdk/client_test.pb.go" "/local/stavros/src/github.com/pensando/sw/nic/sysmgr/lib/sysmgr_client.cpp" "/local/stavros/src/github.com/pensando/sw/api/protos/sgpolicy.proto" "/local/stavros/src/github.com/pensando/sw/venice/ctrler/npm/rpcserver/netproto/sgpolicy.proto" "/local/stavros/src/github.com/pensando/sw/nic/agent/netagent/ctrlerif/ctrlerif.go" "/local/stavros/venice-status_v1_only_nic.diff" "/local/stavros/venice-status_v1.diff" "/local/stavros/src/github.com/pensando/sw/venice/ctrler/npm/statemgr/smartnic_evt.go" "/local/stavros/src/github.com/pensando/sw/venice/ctrler/npm/statemgr/statemgr.go" "/local/stavros/src/github.com/pensando/sw/nic/agent/netagent/ctrlerif/ctrlerif.go" "~/Projects/pq/src/pq_test.erl" "~/Projects/pqc/Makefile" "~/Projects/pqc/client.h" "~/Projects/pqc/client.c" "~/Projects/pqc/parser.c" "~/Projects/pqc/main.c" "~/Projects/pq/src/pq_test.erl" "~/Projects/pq/src/pq_listener.erl" "~/Projects/pq/src/pq_sup.erl" "~/Projects/pqc/atoms.h" "~/Projects/pqc/main.c" "~/Projects/pqc/parser.c" "~/Projects/pq/src/pq_sup.erl" "~/Projects/pq/src/pq_listener.erl" "~/Projects/pqc/parser.c" "~/Projects/pqc/main.c" "~/Projects/pq/src/pq_listener.erl" "~/Projects/pq/src/pq_sup.erl" "~/Projects/pq/src/pq_app.erl" "~/Projects/tessera/elixir/api/lib/api/session.ex" "~/Projects/tessera/elixir/api/lib/api/redis.ex" "~/Projects/tessera/elixir/api/lib/api/sql.ex" "~/Projects/tessera/elixir/api/lib/api/mysql.ex" "~/Projects/tessera/elixir/api/lib/api/mysql-worker.ex" "~/Projects/tessera/elixir/api/lib/api/handler.ex" "~/Projects/tessera/elixir/api/lib/api/application.ex" "~/Projects/tessera/elixir/api/mix.exs" "~/Projects/tessera/elixir/tessera/mix.exs" "~/Projects/tessera/elixir/tessera/lib/tessera.ex" "~/Projects/tessera/elixir/tessera/mix.exs" "~/Projects/tessera/erlang/tessera/src/session.erl" "~/Projects/tessera/erlang/tessera/src/sql.erl" "~/Projects/tessera/erlang/tessera/Makefile" "~/Projects/tessera/erlang/tessera/ebin/tessera.app" "~/Projects/tessera/erlang/tessera/Makefile" "~/Projects/tessera/erlang/tessera/src/tessera_app.erl" "~/Projects/tessera/erlang/tessera/Makefile" "~/Projects/tessera/erlang/tessera/src/rabbit_handler.erl" "~/Projects/tessera/erlang/rebar3/tessera/src/riak_worker.erl" "~/Projects/tessera/erlang/rebar3/tessera/src/tessera.app.src" "~/Projects/tessera/erlang/rebar3/tessera/src/riak_worker.erl" "~/Projects/tessera/erlang/rebar3/tessera/src/riak.erl" "~/Projects/tessera/erlang/rebar3/tessera/src/tessera.app.src" "~/Projects/tessera/erlang/rebar3/tessera/src/rabbit_handler.erl" "~/Projects/tessera/erlang/rebar3/tessera/src/tessera_app.erl" "~/Projects/tessera/erlang/rebar3/tessera/rebar.config" "~/Projects/tessera/erlang/tessera/src/sql.erl" "~/Projects/tessera/erlang/tessera/Makefile" "~/Projects/tessera/erlang/tessera/src/tessera_sup.erl" "~/Projects/tessera/erlang/rebar/tessera/rebar.config" "~/Projects/tessera/erlang/rebar/tessera/apps/tessera/src/rabbit_handler.erl" "~/Projects/tessera/erlang/rebar/tessera/apps/tessera/src/tessera_app.erl" "~/Projects/tessera/clojure/tessera/src/tessera/models/" "~/Projects/tessera/clojure/tessera/src/tessera/models/users.clj" "~/Projects/tessera/clojure/tessera/src/tessera/controllers/users.clj" "~/Projects/tessera/clojure/tessera/src/tessera/middleware.clj" "~/Projects/tessera/clojure/tessera/src/tessera/controllers/" "~/Projects/tessera/clojure/tessera/src/tessera/controllers/users.clj" "~/Projects/tessera/clojure/tessera/src/tessera/db.clj" "~/Projects/tessera/clojure/tessera/src/tessera/mysql.clj" "~/Projects/tessera/clojure/tessera/src/tessera/core.clj" "~/Projects/tessera/clojure/tessera/src/tessera/../../project.clj" "~/Projects/tessera/erlang/rebar/tessera/apps/tessera/src/tessera_sup.erl" "~/Projects/tessera/erlang/rebar/tessera/apps/tessera/src/tessera_app.erl" "~/Projects/tessera/erlang/rebar/tessera/rebar.config" "~/Projects/tessera/erlang/tessera/src/../Makefile" "~/Projects/tessera/erlang/tessera/src/sql_worker.erl" "~/Projects/tessera/erlang/tessera/src/sql_worker.erl~" "~/Projects/tessera/erlang/tessera/src/sql.erl" "~/Projects/tessera/clojure/tessera/src/tessera/../../project.clj" "~/Projects/tessera/clojure/tessera/src/tessera/db.clj" "~/Projects/tessera/clojure/tessera/src/tessera/../../project.clj" "~/Projects/tessera/clojure/tessera/src/tessera/middleware.clj" "~/Projects/tessera/clojure/tessera/src/tessera/redis.clj" "~/Projects/tessera/erlang/tessera/src/sql.erl" "~/Projects/tessera/erlang/tessera/deps/mysql/src/mysql.erl" "~/Projects/tessera/erlang/tessera/src/../Makefile" "~/Projects/tessera/erlang/tessera/src/sql_worker.erl" "~/Projects/tessera/erlang/tessera/src/sql.erl" "~/Projects/tessera/clojure/tessera/src/tessera/core.clj" "~/Projects/tessera/erlang/tessera/src/../Makefile" "~/Projects/tessera/erlang/tessera/src/rabbit_worker.erl" "~/Projects/tessera/erlang/tessera/src/rabbit.erl" "~/Projects/tessera/erlang/tessera/src/sql_worker.erl" "~/Projects/tessera/erlang/tessera/src/sql.erl" "~/Projects/tessera/erlang/tessera/src/rabbit_handler.erl" "~/Projects/tessera/erlang/tessera/src/sql.erl" "~/Projects/tessera/erlang/tessera/src/sql_worker.erl" "~/Projects/tessera/erlang/tessera/src/sql.erl"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/stavros/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(projectile-mode helm-mode auto-complete-mode)
+  1267
+  '(2119 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (2153))))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/venice/ctrler/npm/statemgr/statemgr_test.go"
+  "statemgr_test.go"
+  'go-mode
+  '(projectile-mode helm-mode auto-complete-mode)
+  1603
+  '(33826 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (33604 33604 94))))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/nic/agent/netagent/ctrlerif/ctrlerif_test.go"
+  "ctrlerif_test.go"
+  'go-mode
+  '(projectile-mode helm-mode auto-complete-mode)
+  27021
+  '(1601 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (15301 1831 15191 1709 1743 24638 20000 20005 15301 14546 14546 24638 23716 22027 2673 12076))))
+
+(desktop-create-buffer 208
+  nil
+  "ctrlerif"
+  'dired-mode
+  '(projectile-mode helm-mode)
+  337
+  '(nil nil)
+  t
+  '("/local/stavros/src/github.com/pensando/sw/nic/agent/netagent/ctrlerif/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "netagent"
+  'dired-mode
+  '(projectile-mode helm-mode)
+  266
+  '(nil nil)
+  t
+  '("/local/stavros/src/github.com/pensando/sw/nic/agent/netagent/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "agent"
+  'dired-mode
+  '(projectile-mode helm-mode)
+  597
+  '(nil nil)
+  t
+  '("/local/stavros/src/github.com/pensando/sw/nic/agent/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "nic"
+  'dired-mode
+  '(projectile-mode helm-mode)
+  271
+  '(nil nil)
+  t
+  '("/local/stavros/src/github.com/pensando/sw/nic/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "cmd"
+  'dired-mode
+  '(projectile-mode helm-mode)
+  207
+  '(nil nil)
+  t
+  '("/local/stavros/src/github.com/pensando/sw/nic/agent/cmd/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "netagent"
+  'dired-mode
+  '(projectile-mode helm-mode)
+  219
+  '(nil nil)
+  t
+  '("/local/stavros/src/github.com/pensando/sw/nic/agent/cmd/netagent/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/nic/delphi/gosdk/client_test.pb.go"
+  "client_test.pb.go"
+  'go-mode
+  '(projectile-mode helm-mode auto-complete-mode)
+  5070
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/nic/sysmgr/lib/sysmgr_client.cpp"
+  "sysmgr_client.cpp"
+  'c++-mode
+  '(abbrev-mode projectile-mode helm-mode auto-complete-mode)
+  336
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/nic/sysmgr/lib/sysmgr_client.hpp"
+  "sysmgr_client.hpp"
+  'c++-mode
+  '(abbrev-mode projectile-mode helm-mode auto-complete-mode)
+  886
+  '(858 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/nic/agent/netagent/ctrlerif/ctrlerif.go"
+  "ctrlerif.go"
+  'go-mode
+  '(projectile-mode helm-mode auto-complete-mode)
+  9609
+  '(8653 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (14650 14482 8443 8596 8443 8443 8443 8439 8443 8439 8439 7780 7780 7780 8341 15011))))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/venice/ctrler/npm/rpcserver/netproto/sgpolicy.pb.go"
+  "sgpolicy.pb.go"
+  'go-mode
+  '(projectile-mode helm-mode auto-complete-mode)
+  5933
+  '(1344 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1332 1261))))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/api/protos/sgpolicy.proto"
+  "sgpolicy.proto"
+  'fundamental-mode
+  '(projectile-mode helm-mode)
+  2629
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/venice/ctrler/npm/rpcserver/netproto/sgpolicy.proto"
+  "sgpolicy.proto"
+  'fundamental-mode
+  '(projectile-mode helm-mode)
+  2404
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/api/generated/security/sgpolicy.pb.go"
+  "sgpolicy.pb.go"
+  'go-mode
+  '(projectile-mode helm-mode auto-complete-mode)
+  4987
+  '(4973 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (4973 3466 4358 4019 1564 748 16190 1))))
+
+(desktop-create-buffer 208
+  "/local/stavros/venice-status_v1_only_nic.diff"
+  "venice-status_v1_only_nic.diff"
+  'diff-mode
+  '(projectile-mode helm-mode)
+  549
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1 1))))
+
+(desktop-create-buffer 208
+  "/local/stavros/venice-status_v1.diff"
+  "venice-status_v1.diff"
+  'diff-mode
+  '(projectile-mode helm-mode)
+  2948
+  '(2400 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (2948 1 32167 448))))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/venice/ctrler/npm/statemgr/statemgr.go"
+  "statemgr.go"
+  'go-mode
+  '(projectile-mode helm-mode auto-complete-mode)
+  2435
+  '(2318 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (2259 2435 2435 2435 2435 2435 2435 2435 2434 2236 2435 2237 2435 2236 1))))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/venice/ctrler/npm/statemgr/smartnic_evt.go"
+  "smartnic_evt.go"
+  'go-mode
+  '(projectile-mode helm-mode auto-complete-mode)
+  2332
+  '(2799 nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1399 2333 3259 1380 1380 1380))))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/nic/agent/netagent/datapath/sg_policy.go"
+  "sg_policy.go"
+  'go-mode
+  '(projectile-mode helm-mode auto-complete-mode)
+  1421
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/local/stavros/src/github.com/pensando/sw/nic/agent/netagent/state/sg_policy.go"
+  "sg_policy.go"
+  'go-mode
+  '(projectile-mode helm-mode auto-complete-mode)
+  2136
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
