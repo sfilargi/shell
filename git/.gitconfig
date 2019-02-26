@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+name = Stavros Filargyropoulos
+email = stav@stav.cc
+# Please adapt and uncomment the following lines:
+#	name = Ubuntu
+#	email = ubuntu@ip-172-26-9-17.us-west-2.compute.internal
+[core]
+	editor = vim
