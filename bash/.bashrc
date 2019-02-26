@@ -4,5 +4,3 @@ shopt -s histappend                      # append to history, don't overwrite it
 shopt -s checkwinsize
 export HISTCONTROL=ignoredups:erasedups
 export PS1="[\u@\h \w](\$?)\\$ "
-eval "$(rbenv init -)"
-source ~/.bashrc-*
