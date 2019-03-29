@@ -1,1 +1,1 @@
-("/local/stavros/src/github.com/pensando/sw/" "/local/stavros/sw/" "/Volumes/Projects/pq/" "/Volumes/Projects/tessera/" "~/dotfiles/" "/Volumes/Projects/tessera/erlang/tessera/deps/mysql/")
+("~/shell/" "/local/stavros/src/github.com/pensando/sw/" "/local/stavros/sw/" "/Volumes/Projects/pq/" "/Volumes/Projects/tessera/" "~/dotfiles/" "/Volumes/Projects/tessera/erlang/tessera/deps/mysql/")
