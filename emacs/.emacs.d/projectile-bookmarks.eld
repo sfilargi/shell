@@ -1,1 +1,1 @@
-("~/shell/" "/local/stavros/src/github.com/pensando/sw/" "/local/stavros/sw/" "/Volumes/Projects/pq/" "/Volumes/Projects/tessera/" "~/dotfiles/" "/Volumes/Projects/tessera/erlang/tessera/deps/mysql/")
+("~/upstream/to_upload/" "~/sinwckone/" "~/test/" "~/shell/" "~/wckdone/" "~/gowckone/" "/local/stavros/src/github.com/pensando/sw/" "/local/stavros/sw/" "/Volumes/Projects/pq/" "/Volumes/Projects/tessera/" "~/dotfiles/" "/Volumes/Projects/tessera/erlang/tessera/deps/mysql/")
