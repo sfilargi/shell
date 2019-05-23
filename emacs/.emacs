@@ -13,7 +13,7 @@
  '(js2-strict-missing-semi-warning nil)
  '(package-selected-packages
    (quote
-    (web-mode yaml-mode tide markdown-mode ivy protobuf-mode rust-mode flycheck-golangci-lint go-autocomplete auto-complete ag alchemist js2-mode closure-lint-mode clojure-mode ace-window go-mode elixir-mode flycheck-rebar3 erlang flycheck-elixir rubocop flycheck helm-projectile zenburn-theme helm projectile monokai-theme))))
+    (kotlin-mode web-mode yaml-mode tide markdown-mode ivy protobuf-mode rust-mode flycheck-golangci-lint go-autocomplete auto-complete ag alchemist js2-mode closure-lint-mode clojure-mode ace-window go-mode elixir-mode flycheck-rebar3 erlang flycheck-elixir rubocop flycheck helm-projectile zenburn-theme helm projectile monokai-theme))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
